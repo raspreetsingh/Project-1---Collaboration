@@ -1,0 +1,31 @@
+{
+  "name": "project-1---collaboration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raspreetsingh/Project-1---Collaboration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raspreetsingh/Project-1---Collaboration/issues"
+  },
+  "homepage": "https://github.com/raspreetsingh/Project-1---Collaboration#readme",
+  "description": "",
+  "dependencies": {
+    "daisyui": "^5.0.19",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "sass": "^1.86.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.4"
+  }
+}
