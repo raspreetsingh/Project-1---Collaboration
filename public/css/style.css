@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Custom SCSS */
+body {
+  background-color: #f9fafb;
+  font-family: "Segoe UI", sans-serif;
+}
+
+h1, h2, h3 {
+  color: #4f46e5;
+}
+
+/*# sourceMappingURL=style.css.map */
